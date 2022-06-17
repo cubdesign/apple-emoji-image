@@ -1,0 +1,11 @@
+# IDE
+.idea
+.vscode
+
+# mac
+.DS_Store
+
+# RUST
+/target
+
+# app
